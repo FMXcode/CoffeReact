@@ -1,0 +1,15 @@
+.appInfoIcon {
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 35px;
+  .line{
+    margin: 6px;
+    padding: 4px;
+    height: 1px;
+    width: 80px;
+    border-bottom: 1px solid white;
+    margin: 0px 15px 0px 15px;
+  }
+}

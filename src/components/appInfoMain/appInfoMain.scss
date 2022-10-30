@@ -1,0 +1,29 @@
+.appInfoMain{
+  margin-top: 70px;
+  p{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center
+  }
+  h1{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    text-align: center
+  }
+  a{
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 120px;
+    height: 30px;
+    margin-top: 16px;
+    border: 1px solid #FFFFFF;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 3px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+}

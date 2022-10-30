@@ -1,0 +1,20 @@
+.appProduct{
+  height: 495px;
+  text-align: center;
+  background: url("../../resourse/appPhotoCards/Mask Group.jpg") no-repeat center center fixed;
+  background-size: cover;
+  .appProductMenu{
+    width: 802px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 37px;
+    justify-content: space-between;
+  }
+  h1{
+    padding-top: 82px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+  }
+}

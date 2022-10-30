@@ -1,0 +1,22 @@
+.appMenu{
+  padding: 20px;
+  display: flex;
+  ul{
+    margin-top: 15px;
+    display: flex;
+  }
+  img{
+    display: block;
+  }
+  li{
+    display: block;
+    padding-right: 38px;
+    a{
+      text-decoration: none;
+      color: white;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 17px;
+    }
+  }
+}

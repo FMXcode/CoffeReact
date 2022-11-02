@@ -1,0 +1,21 @@
+.appPleasureAboutOur{
+  display: flex;
+  justify-content: space-between;
+  padding: 70px 375px 60px 375px;
+  .appPleasureAboutMain{
+    width: 396px;
+  }
+  h2{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+  .line{
+    border-bottom: 1px solid black;
+  }
+  .appPhoto{
+    display: block;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+  }
+}

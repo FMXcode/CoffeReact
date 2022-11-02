@@ -1,0 +1,23 @@
+.appFilterButtons{
+  .appButtonsTitle{
+    outline: none; /* Для синий ободки */
+    border: 0;
+    background: transparent;
+    padding: 19px;
+  }
+  .appButtons{
+    width: 75px;
+    height: 30px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border: 0;
+    margin: 5px;
+    display: inline-block;
+  }
+  .buttonsBorderRadiusRight{
+    border-radius: 4px 0px 0px 4px;
+  }
+  .buttonsBorderRadiusLeft{
+    border-radius: 0px 4px 4px 0px;
+  }
+}

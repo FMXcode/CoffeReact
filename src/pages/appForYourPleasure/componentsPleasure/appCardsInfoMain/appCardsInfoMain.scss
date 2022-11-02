@@ -1,0 +1,22 @@
+.appCardsInfoMain{
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 70px;
+  display: flex;
+  .line{
+    border-bottom: 1px solid black;
+  }
+  .appCardsPhoto{
+    display: block;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.45);
+  }
+  h2{
+    text-align: center;
+  }
+  p{
+    margin-top: 16px;
+  }
+  .appCardsAbout{
+    margin-left: 54px;
+  }
+}

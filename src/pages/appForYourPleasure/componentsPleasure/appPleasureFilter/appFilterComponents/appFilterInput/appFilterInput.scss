@@ -1,0 +1,16 @@
+.appFilterInput{
+  button{
+    outline: none; /* Для синий ободки */
+    border: 0;
+    background: transparent;
+    padding: 19px;
+  }
+  input{
+    width: 180px;
+    height: 30px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    text-align: center;
+    border-color: #FFFFFF;
+  }
+}

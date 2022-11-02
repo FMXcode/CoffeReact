@@ -1,0 +1,16 @@
+.appFooter{
+  height: 150px;
+  .line{
+    border-bottom: 1px solid black;
+  }
+  .appMenu{
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+  .appMenuItem{
+    a{
+      color: black;
+    }
+  }
+}

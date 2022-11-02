@@ -1,0 +1,19 @@
+.appCards{
+  margin-top: 60px;
+  width: 196px;
+  height: 250px;
+  background: #FFFFFF;
+  border-radius: 8px;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+  padding: 16px 26px 22px 26px;
+  h4{
+    margin-top: 12px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+  }
+  h5{
+    margin-top: 12px;
+    text-align: right;
+  }
+}

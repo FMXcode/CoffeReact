@@ -1,4 +1,6 @@
 import './appMenu.scss'
+import {Link} from "react-router-dom";
+
 function AppMenu({icon}) {
 
     return (
@@ -6,15 +8,16 @@ function AppMenu({icon}) {
             <img src={icon} alt="icon"/>
             <ul className="appMenuItem">
                 <li>
-                    <a href="#">Coffee house</a>
+                    <Link to="/">Coffee house</Link>
                 </li>
                 <li>
-                    <a href="#">Our coffee</a>
+                    <Link to="/CoffeeHouse">Our coffee</Link>
                 </li>
                 <li>
-                    <a href="#">For your pleasure</a>
+                    <Link to="/OurCoffee">For your pleasure</Link>
                 </li>
             </ul>
+
         </div>
     );
 }
